@@ -51,7 +51,7 @@ Compliance        FAR · DFARS · DevSecOps · Federal IT Compliance · CMMI
 - 🏛️ **IRS** — FinOps modernization, cloud workforce readiness, AI adoption
 - 🏛️ **Dept of Education (FAFSA)** — AWS microservices testing, DevSecOps
 - 🏛️ **U.S. Census Bureau** — 2020 Census systems QA, cloud-hosted apps
-- 🏛️ **Multiple Federal Agencies** — Federal acquisition lifecycle management system; procurement automation
+- 🏛️ **Multiple Federal Agencies** — PRISM, Federal acquisition software
 - 🏛️ **NIH** — Bacterial Repository program systems validation
 
 ---
