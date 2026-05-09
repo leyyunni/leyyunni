@@ -6,7 +6,7 @@
 
 ## About me
 
-I'm a senior IT and program operations specialist with deep federal experience modernizing enterprise systems, operationalizing cloud and AI capabilities, and driving workforce transformation at scale. Currently leading cloud strategy, FinOps modernization, and AI readiness initiatives at the IRS.
+I'm a senior IT and program operations specialist with deep federal experience modernizing enterprise systems, operationalizing cloud and AI capabilities, and driving workforce transformation at scale. Currently leading cloud strategy, FinOps modernization, and AI readiness initiatives.
 
 I hold active **AWS AI Practitioner** and **AWS Cloud Practitioner** certifications and am hands-on with building data pipelines, cloud infrastructure, and analytics solutions to back up the work I've led for over a decade.
 
